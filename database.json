@@ -1,0 +1,211 @@
+{
+  "users": {
+    "988764964602904626": {
+      "money": 1821,
+      "bank": 0,
+      "xp": 2996,
+      "level": 6,
+      "warnings": [],
+      "inventory": []
+    },
+    "1130035839376834560": {
+      "money": 0,
+      "bank": 0,
+      "xp": 1251,
+      "level": 4,
+      "warnings": [],
+      "inventory": []
+    },
+    "1527874556356853790": {
+      "money": 100,
+      "bank": 0,
+      "xp": 343,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1152828601058734161": {
+      "money": 100,
+      "bank": 0,
+      "xp": 62,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "1459156357059055620": {
+      "money": 100,
+      "bank": 0,
+      "xp": 1506,
+      "level": 4,
+      "warnings": [],
+      "inventory": []
+    },
+    "1541093174087385219": {
+      "money": 100,
+      "bank": 0,
+      "xp": 155,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1361045096232915055": {
+      "money": 100,
+      "bank": 0,
+      "xp": 84,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "666527141038522378": {
+      "money": 100,
+      "bank": 0,
+      "xp": 258,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "904193400968970271": {
+      "money": 100,
+      "bank": 0,
+      "xp": 278,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1535358080563544084": {
+      "money": 100,
+      "bank": 0,
+      "xp": 130,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1541426055305502750": {
+      "money": 100,
+      "bank": 0,
+      "xp": 13,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "1211233289185271838": {
+      "money": 100,
+      "bank": 0,
+      "xp": 160,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1008280936200290376": {
+      "money": 100,
+      "bank": 0,
+      "xp": 1854,
+      "level": 5,
+      "warnings": [],
+      "inventory": []
+    },
+    "1509521019352911896": {
+      "money": 100,
+      "bank": 0,
+      "xp": 165,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1440300600318234715": {
+      "money": 100,
+      "bank": 0,
+      "xp": 47,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "1548342907717550182": {
+      "money": 100,
+      "bank": 0,
+      "xp": 235,
+      "level": 2,
+      "warnings": [],
+      "inventory": []
+    },
+    "1252993390929383460": {
+      "money": 100,
+      "bank": 0,
+      "xp": 48,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "1368909870526631936": {
+      "money": 100,
+      "bank": 0,
+      "xp": 10,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "835810534246973460": {
+      "money": 100,
+      "bank": 0,
+      "xp": 8,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "773503632665870339": {
+      "money": 100,
+      "bank": 0,
+      "xp": 26,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    },
+    "1520072305869455500": {
+      "money": 100,
+      "bank": 0,
+      "xp": 5,
+      "level": 1,
+      "warnings": [],
+      "inventory": []
+    }
+  },
+  "guilds": {
+    "1552213814777221190": {
+      "welcome": "1552232058074435584",
+      "goodbye": "1552232058074435584",
+      "autorole": "1552216225382277140",
+      "ticket": {
+        "enabled": true,
+        "category": null,
+        "staffRole": null,
+        "panelChannel": "1552215802030067732"
+      },
+      "expressions": {
+        "<@988764964602904626>": {
+          "trigger": "<@988764964602904626>",
+          "response": "jaahan zawgu bgashu",
+          "creator": "988764964602904626",
+          "createdAt": 1790437060380
+        },
+        "hii": {
+          "trigger": "hii",
+          "response": "Нэр:\nНас:\nДугаар:\nFaceit :\nDiscord :\nSteam link:",
+          "creator": "988764964602904626",
+          "createdAt": 1790498135810
+        }
+      }
+    },
+    "1547612587632496670": {
+      "welcome": "1553385864980209664",
+      "goodbye": "1553385864980209664",
+      "autorole": null,
+      "ticket": {
+        "enabled": true,
+        "category": null,
+        "staffRole": null,
+        "panelChannel": "1553384036351615026"
+      },
+      "expressions": {}
+    }
+  }
+}
